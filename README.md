@@ -1,7 +1,7 @@
 
-# Projeto React Native College
+# Aplicativo
 
-Projeto React Native College é um aplicativo mobile que simula o gerenciamento de uma instituição educacional.
+Projeto de um aplicativo mobile que simula o gerenciamento de uma instituição educacional.
 Desenvolvido em React Native, com backend em Node.js, o projeto é voltado para o aprendizado e aplicação de
 conceitos como navegação, consumo de APIs, e criação de componentes reutilizáveis.
 
@@ -181,14 +181,4 @@ Para usar os componentes no seu projeto, basta importá-los e passar as propried
 import Button from './components/Button';
 
 <Button title="Login" onPress={handleLogin} />
-
-## Autores
-
-- [Vivianne Christi](https://github.com/VivianneChristi)
-- [Raphael de Barros](https://github.com/RaphaCardoso)
-
-
-## Licença
-
-Este projeto está licenciado sob a MIT License.
 
